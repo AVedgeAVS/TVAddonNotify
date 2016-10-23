@@ -1,3 +1,13 @@
-2
+3
 ||| 
-Test message for AVEdgeHUB notifier
+
+Hello again from your friends at AVEdge.
+
+We've been hard at work making the AVEdge ANX Build even better. We now have a new version available for download.
+
+To install the newest version (v2.5):
+1) From your Apps screen, click on "AV Edge Updater".
+2) Click on "Continue".
+3) Select the build "AVEdge HUB Build vn.n". Now click "Yes" to update.
+
+Thank you for choosing AVEdge and the AVEdge ANX Build. Happy streaming.
