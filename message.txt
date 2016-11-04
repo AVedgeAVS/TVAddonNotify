@@ -5,7 +5,7 @@ Hello again from your friends at AVEdge.
 
 We've been hard at work making the AVEdge HUB Build even better. Our newest version has more Live TV and Christmas movies to brighten up the season.
 
-To install the newest version (v2.7) updated on 03-Nov-2016:
+To install the newest version (v2.7) updated on 04-Nov-2016:
 1) From your Apps screen, click on "AV Edge Updater".
 2) Click on "Continue".
 3) Select the build "AVEdge HUB Build vn.n". Now click "Yes" to update.
