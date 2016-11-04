@@ -1,9 +1,9 @@
-3
+4
 ||| 
 
 Hello again from your friends at AVEdge.
 
-We've been hard at work adding more Live TV to hte build. We now have a new version of AVEdge ANX available for download.
+We've been hard at work adding more Live TV to the build. We now have a new version of AVEdge ANX available for download.
 
 To install the newest version updated 04-Nov-2016 (v2.4):
 1) From your Apps screen, click on "AV Edge Updater".
