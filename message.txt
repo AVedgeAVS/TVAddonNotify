@@ -1,4 +1,4 @@
-8
+9
 ||| 
 
 Hello again from your friends at AVEdge. 
@@ -11,5 +11,4 @@ We've been hard at work making AVEdge HUB even better. We now have hundreds of l
 5) Go back to LIVE TV on the Main menu and click the down arrow, then click IPTV CHANNELS.
 
 Latest update is 09-Nov-2016, version v2.8.1.
-
 Thank you for choosing AVEdge and the AVEdge HUB Build. Happy streaming.
