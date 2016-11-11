@@ -1,4 +1,4 @@
-6
+7
 ||| 
 
 Hello again from your friends at AVEdge.
@@ -12,5 +12,3 @@ That's it. Now go back to the Main menu and click on LIVE TV.
 This new version of AVEdge ANX also fixes the missing SPORTS menu item on the Main menu.
 
 Latest update is 11-Nov-2016, version is (v2.5.2).
-
-Thank you for choosing AVEdge and the AVEdge ANX Build. Happy streaming.
