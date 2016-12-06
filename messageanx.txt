@@ -1,14 +1,8 @@
-7
+8
 ||| 
 
 Hello again from your friends at AVEdge.
 
-We've been hard at work making AVEdge ANX even better. We now have hundreds of Live TV channels available. To enable the Live channels:
-1) Click on SETTINGS on the Main menu. 
-2) Go down to LIVE TV and click on it. This brings up the LIVE TV menu.
-3) Click the radio button on the top right that says ENABLE.
-4) Wait about 3 minutes to load all the channels and program guides.
-That's it. Now go back to the Main menu and click on LIVE TV.
-This new version of AVEdge ANX also fixes the missing SPORTS menu item on the Main menu.
+We've made some changes to our AVEdge ANX. The app will now save your favourites whenever you run the Updater to get the latest version.
 
-Latest update is 11-Nov-2016, version is (v2.5.2).
+Latest update is 05-Dec-2016, version v2.6.1.
