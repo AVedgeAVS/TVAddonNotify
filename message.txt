@@ -1,14 +1,10 @@
-9
+10
 ||| 
 
 Hello again from your friends at AVEdge. 
 
-We've been hard at work making AVEdge HUB even better. We now have hundreds of live TV channels available. To enable the Live channels:
-1) Click on SETTINGS on the Main menu. 
-2) Go down to PVR SERVICES and click on it. This brings up the GENERAL menu.
-3) Click the radio button on the top line that says ENABLED.
-4) Wait about 3-5 minutes to load all the channels and program guides.
-5) Go back to LIVE TV on the Main menu and click the down arrow, then click IPTV CHANNELS.
+We've made some changes to our AVEdge HUB. The app will now save your favourites whenever you run the Updater to get the latest version.
 
-Latest update is 09-Nov-2016, version v2.8.1.
+Latest update is 05-Dec-2016, version v3.0.1.
+
 Thank you for choosing AVEdge and the AVEdge HUB Build. Happy streaming.
