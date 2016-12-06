@@ -1,1 +1,8 @@
+8
+||| 
 
+Hello again from your friends at AVEdge.
+
+Welcome to our lastest build AVEdge UNT. This build is mix of our HUB and ANX builds. Try it out. It's a freash look, that's clean and hopefully pleasing to the eye. Enjoy.
+
+Latest update is 05-Dec-2016, version v1.0.1.
