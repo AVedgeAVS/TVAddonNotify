@@ -3,6 +3,4 @@
 
 Hello again from your friends at AVEdge.
 
-We've made some changes to our AVEdge ANX. The app will now save your favourites whenever you run the Updater to get the latest version.
-
-Latest update is 05-Dec-2016, version v2.6.1.
+Latest update is 11-Dec-2016, version v2.6.2.
