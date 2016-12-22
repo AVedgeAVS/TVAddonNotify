@@ -3,7 +3,7 @@
 
 Hello again from your friends at AVEdge.
 
-We've updated out AVEdge UNT build.
+We've updated our AVEdge UNT build.
 - Revised the Made In Canada Add-on
 - Removed dead Add-ons
 - Added QUIT to the Main Menu
