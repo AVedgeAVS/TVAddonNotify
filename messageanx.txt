@@ -7,6 +7,6 @@ Here is the latest update to our ANX build.
 - Removed some dead Add-ons.
 - Revised Made in Canada Add-on
 - Fixed problem with IPTV channels loading
-- Changed Video Accelaration flags
+- Changed Video Acceleration flags
 
 Latest update is 21-Dec-2016, version v2.7.1.
