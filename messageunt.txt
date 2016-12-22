@@ -1,8 +1,13 @@
-8
+9
 ||| 
 
 Hello again from your friends at AVEdge.
 
-Welcome to our lastest build, AVEdge UNT. This build was derived from the Unity build. Try it out. It's a fresh look, that's clean and hopefully pleasing to the eye. Enjoy.
+We've updated out AVEdge UNT build.
+- Revised the Made In Canada Add-on
+- Removed dead Add-ons
+- Added QUIT to the Main Menu
+- Revised the name and cions for the build
+- Fixed Video/Acceleration flags
 
-Latest update is 05-Dec-2016, version v1.0.1.
+Latest update is 21-Dec-2016, version v1.2.1.
