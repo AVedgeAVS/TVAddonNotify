@@ -9,5 +9,5 @@ We've updated out AVEdge UNT build.
 - Added QUIT to the Main Menu
 - Revised the name and icons for the build
 - Fixed Video/Acceleration flags
-
+- Fixed loading of IPTV channels
 Latest update is 21-Dec-2016, version v1.2.1.
