@@ -7,7 +7,7 @@ We've updated out AVEdge UNT build.
 - Revised the Made In Canada Add-on
 - Removed dead Add-ons
 - Added QUIT to the Main Menu
-- Revised the name and cions for the build
+- Revised the name and icons for the build
 - Fixed Video/Acceleration flags
 
 Latest update is 21-Dec-2016, version v1.2.1.
