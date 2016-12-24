@@ -1,10 +1,12 @@
-10
+11
 ||| 
 
 Hello again from your friends at AVEdge. 
 
-We've made some changes to our AVEdge HUB. The app will now save your favourites whenever you run the Updater to get the latest version.
-
-Latest update is 05-Dec-2016, version v3.0.1.
+We've made some changes to our AVEdge HUB.
+- Reloaded Made in Canada
+- Fixed loading of Live TV channels
+- Removed dead Add-ons, and added new ones
+- Fixed accelerator flags
 
 Thank you for choosing AVEdge and the AVEdge HUB Build. Happy streaming.
