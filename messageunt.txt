@@ -1,13 +1,9 @@
-9
+10
 ||| 
 
 Hello again from your friends at AVEdge.
 
-We've updated our AVEdge UNT build.
-- Revised the Made In Canada Add-on
-- Removed dead Add-ons
-- Added QUIT to the Main Menu
-- Revised the name and icons for the build
-- Fixed Video/Acceleration flags
-- Fixed loading of IPTV channels
-Latest update is 21-Dec-2016, version v1.2.1.
+We've changed our build name. It's now te AVEdge ANX. This keeps it consistant with our other builds.
+
+Enjoy our newest build, with all the great features you've come to expect from AVEdge.
+Latest update is 05-Jan-2017, version v1.3.1.
