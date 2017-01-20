@@ -1,12 +1,11 @@
-11
+12
 ||| 
 
-Hello again from your friends at AVEdge. 
-
-We've made some changes to our AVEdge HUB.
-- Reloaded Made in Canada
+Hello again from your friends at AVEdge. We've got our first update for AVEdge HUB for the new year.
+Latest Version: v3.6.1, 20-Jan-2017
+- Added the Speed Tester add-on onto the System (previously called Settings) submenu
+- Added the 'Android Apps' add-on to the System submenu
+- Updated any outdated add-ons
 - Fixed loading of Live TV channels
-- Removed dead Add-ons, and added new ones
-- Fixed accelerator flags
 
 Thank you for choosing AVEdge and the AVEdge HUB Build. Happy streaming.
