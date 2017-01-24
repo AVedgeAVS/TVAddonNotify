@@ -1,7 +1,11 @@
-12
+11
 ||| 
 
-Hello again from your friends at AVEdge. We've got our first update for AVEdge HUB for the new year.
+Hello again from your friends at AVEdge. With so many changes going on in the world of live streaming we've tried to keep our app 
+as up to date as we can. There is an upate for the AVEdge HUB. To download this update:
+1) Go to our Updater app, AVEdge Updater. You'll find it in the App Draw. Click on it.
+2) Click on 'Continue'
+3) Click  on 'Latest update
 Latest Version: v3.6.1, 20-Jan-2017
 - Added the Speed Tester add-on onto the System (previously called Settings) submenu
 - Added the 'Android Apps' add-on to the System submenu
