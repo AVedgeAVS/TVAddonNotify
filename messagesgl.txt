@@ -1,12 +1,12 @@
-2
+3
 ||| 
 
-Hello from your friends at AVEdge. Our SE app is our latest media centre app that lets
-you play all your favourite TV Shows and Movies and Music all in one place.
+Hello from your friends at AVEdge. We've given our AVEdge SE a major facelift. We hope you like it.
+The lastest version is v8, updated 26-Jan-2017
 
-Current version is v7, updated 20-Jan-2017
-- Added the Speed Tester add-on
-- Added the Android app add-on
-- Updated any outdated add-ons with their latest updates
-- Fixed Live IPTV channel loading
-- Fixed the File Manager submenu item on System
+- Menu sections now have full backgrounds
+- Removed Apollo Group
+- Removed dead links and updated old ones
+- IPTV will load automatically. To switch this feature off, go to SYSTEM-->LIVE TV and turn off 'Enable'
+
+Happy Streaming!
