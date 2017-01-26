@@ -1,12 +1,12 @@
-3
+4
 ||| 
 
 Hello from your friends at AVEdge. We've given our AVEdge SE a major facelift. We hope you like it.
-The lastest version is v8, updated 26-Jan-2017
+The lastest version is v9, updated 26-Jan-2017
 
-- Menu sections now have full backgrounds
-- Removed Apollo Group
+- Menu sections now have full backgrounds images
+- Removed Apollo Group Repo
 - Removed dead links and updated old ones
-- IPTV will load automatically. To switch this feature off, go to SYSTEM-->LIVE TV and turn off 'Enable'
+- Disabled IPTV auto loading. To switch this feature on, go to SYSTEM-->LIVE TV and click on 'Enable'
 
 Happy Streaming!
