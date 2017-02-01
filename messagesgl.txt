@@ -1,12 +1,13 @@
-5
+6
 ||| 
 
 Hello from your friends at AVEdge. We've given our AVEdge SE a major facelift. We hope you like it.
-The lastest version is v9, updated 26-Jan-2017
 
-- Menu sections now have beautiful background images
-- Removed used repos.
-- Removed dead links and updated old ones
-- Disabled IPTV auto loading. To switch this feature on, go to SYSTEM-->LIVE TV and click on 'Enable'
-
-Happy Streaming!
+The lastest version is v10, updated 31-Jan-2017.
+- Added the LIVE TV section to the Main Menu. You'll find lots of Live TV add-ons in there, including
+  a 'Canada IPTV' add-on for Canadian live channels. Try it out.
+- For those of you looking for the Adult section:
+  (1) Go to SYSTEM and go down to the submenu and click on 'Skin Settings'
+  (2) At the top right of the screen click on 'Set up Aeon Nox Main Menu'
+  (3) Now on the left side scroll down to ADULT 18+ ONLY and then click on 'Enable' on the top right 
+      side of the screen. The Adult section will now appear on the Main Menu.
