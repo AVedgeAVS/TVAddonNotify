@@ -1,12 +1,7 @@
-9
+10
 ||| 
 
-Hello again from your friends at AVEdge.
+Hello again from your friends at AVEdge. Here is the latest update to our ANX build.
+We've added all new backgrounds in each of the Main Menu sections. We hope you like it.
 
-Here is the latest update to our ANX build.
-- Removed some dead Add-ons.
-- Revised Made in Canada Add-on
-- Fixed problem with IPTV channels loading
-- Changed Video Acceleration flags
-
-Latest update is 21-Dec-2016, version v2.7.1.
+Latest update is 02-Feb-2017, version v3.0.1.
