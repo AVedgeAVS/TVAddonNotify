@@ -3,9 +3,8 @@
 
 Hello from your friends at AVEdge. We've given our AVEdge SE a major facelift. We hope you like it.
 
-The lastest version is v11, updated 10-Feb-2017.
-- Made changes to the LIVE TV section. There's now a US/UK TV channels section. Try it out.
-- Added a Sports TV channels section in SPORTS.
+The lastest version is v12, updated 03-Mar-2017.
+- Made changes to the LIVE TV, Kids and Sports sections.
 
 To get the latest update, simply go to the App draw and click on the AVEdge Updater SE app, and
 follow the instructions.
