@@ -1,7 +1,12 @@
-10
+11
 ||| 
 
-Hello again from your friends at AVEdge. Here is the latest update to our ANX build.
-We've added all new backgrounds in each of the Main Menu sections. We hope you like it.
+The AVEdge ANX build has a new update. The lastest version is v3.5.1, updated 30-Mar-2017.
+- Changed Movies sub-menu to include ZEN add-on for Movies and TV Shows. Removed 1Channel.
+- Changed Music sub-menu to include VEVO and Musix Box for more music videos.
+- Added Animation TV section to Kids sub-menu, and removed Cartoon8.
+- Added IsraeLive TV channels to Live TV. Here you'll find a host of live TV channels.
+  Removed World TV.
 
-Latest update is 02-Feb-2017, version v3.0.1.
+To get the latest update: First Quit AVEdge HUB, then open the App draw and click on the 
+AVEdge Updater app. Click 'I Agree' and wait for the new version to download and install.
