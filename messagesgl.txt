@@ -1,7 +1,7 @@
 8
 ||| 
 
-AVEdge SE has a new update. The lastest version is v15, updated 30-Mar-2017.
+AVEdge SE has a new update. The lastest version is v3, updated 30-Mar-2017.
 - Changed Movies sub-menu to include ZEN add-on for Movies and TV Shows. Removed 1Channel.
 - Changed Music sub-menu to include VEVO and Musix Box for more music videos.
 - Added Animation TV section to Kids sub-menu, and removed Cartoon8.
