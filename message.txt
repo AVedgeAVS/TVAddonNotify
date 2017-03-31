@@ -1,14 +1,12 @@
-15
+16
 ||| 
 
-Hello again from your friends at AVEdge. With so many changes going on in the world of live
-streaming we've tried to keep our app as up to date as we can. To get the latest update:
-1) Go to our Updater app, 'AVEdge Updater'. You'll find it in the App Draw. Click on it
-2) Click on 'Continue'
-3) Now click on 'AVEdge HUB Build. LATEST UPDATE v3.6.4 31-Jan-2017.
+Hello again from your friends at AVEdge. We've updated AVEdge HUB to fix those add-ons 
+that didn't work properly. There's more live TV in the Live TV section. Check it out.
+To get the latest update:
+1) Go to our Updater app, 'AVEdge Updater'. You'll find it in the App Draw. Click on it.
+2) Click on 'Continue'.
+3) Now click on 'AVEdge HUB Build. LATEST UPDATE v3.7.1 30-Mar-2017.
 
-Check out the SYSTEM submenu to find the new Android apps section. Here you can run
-any Android app that's on your box. And tryout the Speed tester add-on. This add-on
-let's you check your internet speed from inside AVEdge HUB. Finally, have a look at the
-LIVE TV section. We've added a 'Canada IPTV' section. This add-on has quite a few Canadian
-channels, including Sportsnet and TSN. As always, we hope you enjoy AVEdge HUB.
+There's still more to come as we continue to improve and enhance the AVEdge app. Until 
+next time...happy streaming.
