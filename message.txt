@@ -1,12 +1,12 @@
-16
+17
 ||| 
 
-Hello again from your friends at AVEdge. We've updated AVEdge HUB to fix those add-ons 
-that didn't work properly. There's more live TV in the Live TV section. Check it out.
+There's an update for AVEdge HUB to fix those add-ons that didn't work properly. 
+We've added some more live TV, plus music videos with VEVO and Music Box. Check it out.
 To get the latest update:
 1) Go to our Updater app, 'AVEdge Updater'. You'll find it in the App Draw. Click on it.
 2) Click on 'Continue'.
-3) Now click on 'AVEdge HUB Build. LATEST UPDATE v3.7.1 30-Mar-2017.
+3) Now click on 'AVEdge HUB Build. LATEST UPDATE v3.8.1 30-Mar-2017.
 
 There's still more to come as we continue to improve and enhance the AVEdge app. Until 
 next time...happy streaming.
