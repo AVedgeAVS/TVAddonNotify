@@ -1,12 +1,10 @@
 12
 ||| 
 
-AVEdge SE has a new update. The lastest version is v6, updated 4-Apr-2017.
-- Changed Movies sub-menu to include ZEN add-on for Movies and TV Shows. Removed 1Channel.
-- Changed Music sub-menu to include VEVO and Musix Box for more music videos.
-- Added Animation TV section to Kids sub-menu, and removed Cartoon8.
-- Added IsraeLive TV channels to Live TV. Here you'll find a host of live TV channels.
-  Removed World TV.
+AVEdge SE has a new update. The lastest version is v6.0.5, updated 5-Apr-2017.
+- Fixed Kodi Version message.
+- Added One242415 and Evolve add-ons to Movies section menu.
 
-To get the latest update: First Quit AVEdge SE, then open the App draw and click on the 
-AVEdge Updater SE app. Click 'I Agree' and wait for the new version to download and install.
+To get the latest update: First Quit AVEdge SE, then open the App draw and click 
+on the AVEdge Updater SE app. Click 'I Agree' or 'Yes' for a Fresh installand 
+wait for the new version to download and install.
