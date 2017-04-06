@@ -1,10 +1,13 @@
-13
+14
 ||| 
 
 AVEdge SE has a new update. The lastest version is v6.1.5, updated 6-Apr-2017.
 - Fixed Kodi Version message.
 - Added One242415 and Evolve add-ons to Movies section menu.
 
-To get the latest update: First Quit AVEdge SE, then open the App draw and click 
-on the AVEdge Updater SE app. Click 'I Agree' or 'Yes' for a Fresh installand 
-wait for the new version to download and install.
+To check your current version; inside AVEdge SE, go to SYSTEM, then scroll down to 
+SERVICES and check the DEVICE NAME.
+
+To get the latest update: First quit the AVEdge SE app, then open the App draw and 
+click on the AVEdge Updater SE app. Click 'I Agree' and wait for the new version 
+to download and install.
