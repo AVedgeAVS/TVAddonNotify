@@ -1,7 +1,7 @@
-12
+13
 ||| 
 
-AVEdge SE has a new update. The lastest version is v6.0.5, updated 5-Apr-2017.
+AVEdge SE has a new update. The lastest version is v6.1.5, updated 6-Apr-2017.
 - Fixed Kodi Version message.
 - Added One242415 and Evolve add-ons to Movies section menu.
 
