@@ -1,9 +1,9 @@
-14
+15
 ||| 
 
-AVEdge SE has a new update. The lastest version is v6.1.5, updated 6-Apr-2017.
-- Fixed Kodi Version message.
-- Added One242415 and Evolve add-ons to Movies section menu.
+AVEdge SE has a new update. The lastest version is v6.2.5, updated 20-Apr-2017.
+- Fixed YOUTUBE.
+- Replaced VEVO with VEVO Music Videos.
 
 To check your current version; inside AVEdge SE, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME.
