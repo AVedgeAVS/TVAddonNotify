@@ -1,9 +1,9 @@
-13
+14
 ||| 
 
-AVEdge ANX build has a new update. The lastest version is v3.6, updated 6-Apr-2017.
-- Fixed Kodi Version message.
-- Added One242415 and Evolve add-ons to Movies section sub-menu.
+AVEdge ANX build has a new update. The lastest version is v3.7.0, updated 2-May-2017.
+- Fixed missing backgrounds not showing up.
+- Updated VEVO add-on. Added some Adult add-ons.
 
 To check your current version; inside AVEdge HUB, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME.
