@@ -1,9 +1,10 @@
-21
+22
 ||| 
 
-AVEdge HUB has a new update. Please install the latest update. 
-The lastest version is v4.1.0, updated 7-Apr-2017. Please run 
-the AVEdge Updater app.
+AVEdge HUB has a new update. Please install the latest update. The latest update
+has the ADULT section on the Main Menu. It is passcode protected. The code is 999.
+The lastest version is v4.1.0, updated 7-Apr-2017. Please run the AVEdge Updater 
+app.
 
 To check your current version; inside AVEdge HUB, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME.
