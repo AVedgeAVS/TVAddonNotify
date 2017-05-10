@@ -1,9 +1,9 @@
-15
+16
 ||| 
 
-AVEdge SE has a new update. The lastest version is v6.2.5, updated 20-Apr-2017.
-- Fixed YOUTUBE.
-- Replaced VEVO with VEVO Music Videos.
+AVEdge SE has a new update. The lastest version is v7.1.0, updated 09-May-2017.
+- Added IPTV Gold, our new IPTV subscription based live TV. Check out LIVE TV. 
+If you are interested in getting this service, then come talk to us.
 
 To check your current version; inside AVEdge SE, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME.
