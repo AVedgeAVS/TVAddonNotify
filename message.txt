@@ -1,9 +1,9 @@
-23
+24
 ||| 
 
-AVEdge HUB has a new update. This latest update has the ADULT section on the 
-Main Menu. It is passcode protected. The code is 999.
-The lastest version is v4.5.0, updated 03-May-2017. 
+AVEdge HUB has a new update. This latest update includes our new IPTV Gold add-on.
+You will find it the MORE sub-menu. If you are interested, come talk to us and get 
+a 24hr free trial. The lastest version is v5.1.0, updated 12-May-2017. 
 
 To check your current version; inside AVEdge HUB, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME.
