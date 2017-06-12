@@ -1,9 +1,9 @@
-24
+25
 ||| 
 
-AVEdge HUB has a new update. This latest update includes our new IPTV Gold add-on.
-You will find it the MORE sub-menu. If you are interested, come talk to us and get 
-a 24hr free trial. The lastest version is v5.1.0, updated 12-May-2017. 
+Hello from AVEdge. There's been lots of changes in the community and as promised we 
+will always work hard to keep the app fresh. We say good bye to Phoenix and One242415 
+and say hello to Arawak TV and Zen. The lastest version is v5.5.0, updated 11-Jun-2017. 
 
 To check your current version; inside AVEdge HUB, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME.
