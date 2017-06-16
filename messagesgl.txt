@@ -1,9 +1,9 @@
-17
+18
 ||| 
 
 AVEdge SE has a new update. The lastest version is v7.5.0, updated 09-Jun-2017.
 Sadly, Phoenix and ONE242415 are no longer. But we've added more live TV in 
-Arawak TV, streaming lots of Caribbean and African TV. Check it out under LIVE TV. 
+Arawak TV for live TV and Elysium for movies and TV shows. Check it out. 
 
 To check your current version; inside AVEdge SE, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME.
