@@ -1,13 +1,13 @@
-14
+17
 ||| 
 
-AVEdge ANX build has a new update. The lastest version is v3.7.0, updated 2-May-2017.
-- Fixed missing backgrounds not showing up.
-- Updated VEVO add-on. Added some Adult add-ons.
+AVEdge ANX has a new update. The lastest version is v4.1.0, updated 16-Jun-2017.
+Sadly, Phoenix and ONE242415 are no longer. But we've added more live TV in 
+Arawak TV, streaming lots of Caribbean and African TV. Check it out under LIVE TV. 
 
-To check your current version; inside AVEdge HUB, go to SYSTEM, then scroll down to 
+To check your current version; inside AVEdge ANX, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME.
 
-To get the latest update: First quit the AVEdge HUB app, then open the App Draw and 
-click on the AVEdge Updater app. Click 'Continue', then choose AVEdge ANX Build, click 
-'I Agree' and wait for the new version to download and install.
+To get the latest update: First quit out of AVEdge SE, then open the App draw and 
+click on AVEdge Updater SE. Click 'I Agree' and wait for the new version to 
+download and install. Allow any Add-on updates to complete before streaming.
