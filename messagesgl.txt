@@ -1,13 +1,13 @@
-19
+20
 ||| 
 
-AVEdge SE has a new update. The lastest version is v7.6.1, updated 16-Jun-2017.
-Sadly, Phoenix and ONE242415 are no longer. But we've added more live TV in 
-Arawak TV and Elysium for movies and TV shows. Check it out. 
+Hello from us at AVEdge. With all the changes to the plugins that work in the system, 
+we've worked hard to keep AVEdge SE producing great streaming content. The lastest 
+version is v7.7.1, updated 10-Jul-2017. Many plugins have gone away, but we've added 
+several new ones. Try out Genesis Reborn, Showbox Arize and Bob Unrestricted. 
 
 To check your current version; inside AVEdge SE, go to SYSTEM, then scroll down to 
-SERVICES and check the DEVICE NAME.
-
-To get the latest update: First quit out of AVEdge SE, then open the App draw and 
-click on AVEdge Updater SE. Click 'I Agree' and wait for the new version to 
-download and install. Allow any Add-on updates to complete before streaming.
+SERVICES and check the DEVICE NAME. To get the latest update: First quit out of 
+AVEdge SE, then open the App draw and click on AVEdge Updater SE. Click 'I Agree' 
+and wait for the new version to download and install. Allow any Add-on updates to 
+complete before streaming.
