@@ -1,9 +1,9 @@
-20
+21
 ||| 
 
 Hello from us at AVEdge. With all the changes to the plugins that work in the system, 
-we've worked hard to keep AVEdge SE producing great streaming content. The lastest 
-version is v7.7.1, updated 10-Jul-2017. Many plugins have gone away, but we've added 
+we've worked hard to keep AVEdge ANX producing great streaming content. The lastest 
+version is v4.5.0, updated 13-Jul-2017. Many plugins have gone away, but we've added 
 several new ones. Try out Genesis Reborn, Showbox Arize and Bob Unrestricted. 
 
 To check your current version; inside AVEdge ANX, go to SYSTEM, then scroll down to 
