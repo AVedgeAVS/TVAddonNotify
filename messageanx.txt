@@ -8,6 +8,6 @@ several new ones. Try out Genesis Reborn, Showbox Arize and Bob Unrestricted.
 
 To check your current version; inside AVEdge ANX, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME. To get the latest update: First quit out of 
-AVEdge ANX, then open the App draw and click on AVEdge Updater. Click 'I Agree' 
-and wait for the new version to download and install. Allow any Add-on updates to 
-complete before streaming.
+AVEdge ANX, then open the App draw and click on AVEdge Updater. Click 'Continue' 
+and select AVEdge ANX Build wait for the new version to download and install. Allow 
+any Add-on updates to complete before streaming.
