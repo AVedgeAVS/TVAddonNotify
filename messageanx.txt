@@ -3,7 +3,7 @@
 
 Hello from us at AVEdge. With all the changes to the plugins that work in the system, 
 we've worked hard to keep AVEdge ANX producing great streaming content. The lastest 
-version is v4.6.1, updated 16-Jul-2017. We've added several new ones. Try out Genesis 
+version is V4.6.1, UPDATED 16-JUL-2017. We've added several new ones. Try out Genesis 
 Reborn, Showbox Arize and Bob Unrestricted. Fixed the missing backgrounds.
 
 To check your current version; inside AVEdge ANX, go to SYSTEM, then scroll down to 
