@@ -1,10 +1,9 @@
-21
+22
 ||| 
 
-Hello from us at AVEdge. With all the changes to the plugins that work in the system, 
-we've worked hard to keep AVEdge ANX producing great streaming content. The lastest 
-version is V4.6.1, UPDATED 16-JUL-2017. We've added several new ones. Try out Genesis 
-Reborn, Showbox Arize and Bob Unrestricted. Fixed the missing backgrounds.
+Here's our latest update to AVEdge ANX. We've added lots of new content providers.
+Check out the Movies section for Maverick, and there's big changes in Live TV. And 
+we've added a Sports section. The lastest version is v4.7.1, updated 23-Jul-2017. 
 
 To check your current version; inside AVEdge ANX, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME. To get the latest update: First quit out of 
