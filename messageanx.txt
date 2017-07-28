@@ -1,10 +1,11 @@
-22
+23
 ||| 
+The lastest version is v4.7.2, updated 28-Jul-2017.
 
 Here's our latest update to AVEdge ANX. We've added lots of new content providers.
 Check out the Movies section for Maverick, and there's big changes in Live TV. And 
-we've added a Sports section. The lastest version is v4.7.1, updated 23-Jul-2017. 
-
+we've added a Live Sports section.
+     FIXED-cCloud
 To check your current version; inside AVEdge ANX, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME. To get the latest update: First quit out of 
 AVEdge ANX, then open the App draw and click on AVEdge Updater. Click 'Continue' 
