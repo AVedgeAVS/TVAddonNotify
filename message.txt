@@ -1,13 +1,12 @@
-26
+27
 ||| 
 
 Hello from AVEdge. Here's the latest update. It includes Arawak TV, Zen and another 
 new movies and TV shows add-on Elysium. The lastest version is v5.6.1, 
 updated 16-Jun-2017. 
 
-To check your current version; inside AVEdge HUB, go to SYSTEM, then scroll down to 
-SERVICES and check the DEVICE NAME.
-
-To get the latest update: First quit the AVEdge HUB app, then open the App Draw and 
-click on the AVEdge Updater app. Click 'Continue', then choose AVEdge HUB Build, click 
-'I Agree' and wait for the new version to download and install.
+To check your current version; inside AVEdge ANX, go to SYSTEM, then scroll down to 
+SERVICES and check the DEVICE NAME. To get the latest update: First quit out of 
+AVEdge ANX, then open the App draw and click on AVEdge Updater. Click 'Continue' 
+and select AVEdge ANX Build wait for the new version to download and install. Allow 
+any Add-on updates to complete before streaming.
