@@ -1,11 +1,10 @@
-27
+28
 ||| 
 
-Latest update is 02-Aug-2017, version v5.7.0. 
-
-Here's the latest update TO AVEdge HUB BUILD. We've made lots of changes to the 
-sub-menus. There's new add-ons like Maverick and Halow to try out. Enjoy! 
-
+Here's the latest update TO AVEdge HUB BUILD.
+- Fixed cCloud
+      Latest update is 16-Aug-2017, version v5.7.1. 
+      
 To check your current version; inside AVEdge HUB, go to SYSTEM, then scroll down to 
 SERVICES and check the DEVICE NAME. To get the latest update: First quit out of 
 AVEdge HUB, then open the App draw and click on AVEdge Updater. Click 'Continue' 
