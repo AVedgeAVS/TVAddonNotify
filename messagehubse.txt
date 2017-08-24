@@ -1,4 +1,4 @@
-2
+3
 ||| 
 Here's our latest AVEdge SE. It's now called AVEdge SE Player. 
 It uses the latest program features, making it faster and more 
