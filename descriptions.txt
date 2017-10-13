@@ -1,4 +1,10 @@
-Description for each message.txt file:
-message.txt - Used for AVEdge HUB K16.1 Multi-Build app
-messagehub.txt -Used for the new AVEdge HUB 17.3 Multi-build app
-messagehubse.txt - Used for the new AVEdge HUB SE K17.3 Single build app
+DECRIPTION FOR EACH message.txt FILE:
+message.txt - Used for AVEdge HUB K16.1 PHENOMENAL build in old Multi-Build app
+messageanx.txt - Used for AVEdge ANX K16.1 AEON NOX build in old Multi-Build app
+messageunx.txt - Used for AVEdge UNX K16.1 UNITY build in old Multi-Build app
+messagesgl.txt -Used for the AVEdge SE K16.1 AEON NOX build in old Single-Build app
+
+messagehubse.txt - Used for the new AVEdge SE PLayer K17.3 AEON NOX build in new Single-Build app,
+and also in AVEdge HUB SE K17.3 AEON NOX build in new Multi-Build app
+
+messagehub.txt -Used for the AVEdge HUB 17.3 Phenomenal BUid in new Multi-build app
