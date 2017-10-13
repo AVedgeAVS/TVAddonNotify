@@ -1,0 +1,4 @@
+Description for each message.txt file:
+message.txt - Used for AVEdge HUB K16.1 Multi-Build app
+messagehub.txt -Used for the new AVEdge HUB 17.3 Multi-build app
+messagehubse.txt - Used for the new AVEdge HUB SE K17.3 Single build app
