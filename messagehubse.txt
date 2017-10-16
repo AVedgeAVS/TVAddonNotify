@@ -1,12 +1,12 @@
-6
+7
 ||| 
 New update for AVEdge SE. ***v8.0.3, updated 16-Oct-2017***
 
 Fixed some minor bugs and added RSS feeds.
 
-To check your current version; inside AVEdge SE, click on SYSTEM, then 
-scroll down to SERVICES and check the DEVICE NAME. To get the latest 
-update: First quit out of AVEdge SE, then open the App draw and click 
-on AVEdge Updater SE. Click 'I Agree' and wait for the new version 
-to download and install. Allow any Add-on updates to complete before 
-streaming.
+To check your current version; inside AVEdge SE, click on SYSTEM, 
+then scroll down to SERVICES and check the DEVICE NAME. To get 
+the latest update: First quit out of AVEdge SE, then open the App 
+draw and click on AVEdge Updater SE. Click 'I Agree' and wait for 
+the new version to download and install. Allow any Add-on updates 
+to complete before streaming.
