@@ -1,4 +1,4 @@
-3
+4
 ||| 
 Here's our latest AVEdge SE. It's now called AVEdge SE Player. 
 It uses the latest program features, making it faster and more 
@@ -7,4 +7,4 @@ for you to access what you're looking for.
 
 Enjoy the new, easy to use, AVEdge HUB SE Player!
 
---------- Version 8.0.2, Update 23-Sep-2017 ---------
+--------- Version 8.0.3, Current update 16-Oct-2017 ---------
