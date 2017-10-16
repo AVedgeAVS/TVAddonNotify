@@ -1,6 +1,10 @@
 4
 ||| 
-Here's our latest AVEdge SE. It's now called AVEdge SE Player. 
+New update for AVEdge SE. ***v8.0.3, updated 16-Oct-2017***
+
+Fixed some minor bugs and added RSS feeds.
+
+THere's our latest AVEdge SE. It's now called AVEdge SE Player. 
 It uses the latest program features, making it faster and more 
 efficient than ever. We've also changed the menus to be simpler 
 for you to access what you're looking for. 
