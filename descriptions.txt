@@ -4,6 +4,6 @@ messageanx.txt - Used for AVEdge ANX K16.1 AEON NOX build in old Multi-Build app
 messageunx.txt - Used for AVEdge UNX K16.1 UNITY build in old Multi-Build app
 messagesgl.txt - Used for the AVEdge SE K16.1 AEON NOX build in old Single-Build app
 
-messagehubse.txt - Used for the AVEdge SE PLayer K17.3 AEON NOX build in new Single-Build app,
-and also in AVEdge HUB SE K17.3 AEON NOX build in new Multi-Build app
+messagehubse.txt - Used for the AVEdge HUB SE K17.3 AEON NOX build in new Multi-Build app
 messagehubph17.txt - Used for the AVEdge HUB 17.3 PHENOMENAL Buid in new Multi-build app
+messageSE.txt - Used for AVEdge SE Player K17.3 AEON NOX build in new Single-Build app
