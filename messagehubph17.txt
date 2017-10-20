@@ -1,9 +1,9 @@
-2
+3
 ||| 
 Welcome to our exciting new AVEdge HUB media centre! We've 
 been working hard at creating a media centre that would give 
-youtype of the streaming you're looking for in an easy to 
-use format. It's now faster and more efficient than ever. 
+you the type of the streaming you're looking for in an easy 
+to use format. It's now faster and more efficient than ever. 
 We hope you like it. Check it out and tell us what you think.  
 
 Enjoy the new, easy to use, AVEdge HUB!
