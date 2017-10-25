@@ -1,12 +1,7 @@
-24
+25
 ||| 
-Hi there from AVEdge. We've added the Covenant add-on for movies and TV shows. 
-It will replace the Exodus add-on as the prefered add-on. We've also added some 
-Adult add-ons.
-Coming soon, the latest AVEdge HUB app, the first major revision of our app.
-     Current New Version v4.7.3, updated 16-Aug-2017
-To check your current version; inside AVEdge ANX, go to SYSTEM, then scroll down to 
-SERVICES and check the DEVICE NAME. To get the latest update: First quit out of 
-AVEdge ANX, then open the App draw and click on AVEdge Updater. Click 'Continue' 
-and select AVEdge ANX Build wait for the new version to download and install. Allow 
-any Add-on updates to complete before streaming.
+To our loyal users of AVEdge HUB & ANX, we have come to the end of the road for this 
+version of the app. There will no longer be any updates. There is a new app for 
+AVEdge. You can contact us at avedgebox@gmail.com, or come see us at the 
+Pickering Market, aisle H, Booth 1512 to find out how you can get the new app 
+for free.
