@@ -1,12 +1,7 @@
-28
+29
 ||| 
-
-Here's the latest update TO AVEdge HUB BUILD.
-- Fixed cCloud
-      Latest update is 16-Aug-2017, version v5.7.1. 
-      
-To check your current version; inside AVEdge HUB, go to SYSTEM, then scroll down to 
-SERVICES and check the DEVICE NAME. To get the latest update: First quit out of 
-AVEdge HUB, then open the App draw and click on AVEdge Updater. Click 'Continue' 
-and select AVEdge HUB Build wait for the new version to download and install. Allow 
-any Add-on updates to complete before streaming.
+To our loyal users of AVEdge HUB, we have come to the end of the road for this 
+version of the app. There will no longer be any updates. There is a new app for 
+AVEdge. You can contact us at avedgebox@gmail.com, or come see us at the 
+Pickering Market, aisle H, Booth 1512 to find out how you can get the new app 
+for free.
