@@ -1,8 +1,9 @@
-9
+10
 ||| 
-New update for AVEdge HUB SE. ***v8.0.4, updated 06-Nov-2017***
+New update for AVEdge HUB SE. ***v8.1.0, updated 21-Nov-2017***
 
-Fixed some minor bugs with the launcher screen.
+Changed backgrounds, added a new section 'All in One', changed submenu
+for LIVE TV. Removed dead add-ons and fixed some minor bugs.
 
 To check your current version; inside AVEdge SE, click on SYSTEM, 
 then scroll down to SERVICES and check the DEVICE NAME. To get 
