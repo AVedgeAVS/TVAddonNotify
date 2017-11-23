@@ -1,11 +1,13 @@
-3
+4
 ||| 
-Welcome to our exciting new AVEdge HUB media centre! We've 
-been working hard at creating a media centre that would give 
-you the type of the streaming you're looking for in an easy 
-to use format. It's now faster and more efficient than ever. 
-We hope you like it. Check it out and tell us what you think.  
+New update for AVEdge HUB build. ***v17.11.23, updated 23-Nov-2017***
 
-Enjoy the new, easy to use, AVEdge HUB!
+Changed LIVE TV submenu. Added new add-ons for movies, TV shows and 
+live TV. Removed dead add-ons and fixed some minor bugs.
 
---------- Version 17.10.2, Last update 17-Oct-2017-2017 ---------
+To check your current version; inside AVEdge SE, click on SYSTEM, 
+then scroll down to SERVICES and check the DEVICE NAME. To get 
+the latest update: First quit out of AVEdge HUB, then open the App 
+draw and click on AVEdge HUB. Click on the BUILD icon, then click on
+the AVEdge HUB icon. Click 'Install' to install the new version. 
+Allow any Add-on updates to complete before streaming.
