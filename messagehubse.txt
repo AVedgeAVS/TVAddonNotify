@@ -9,5 +9,6 @@ by clicking on SYSTEM, then scroll down and click on SERVICES, and
 check the DEVICE NAME. To download the latest update: Open 
 AVEdge HUB, click on the BUILD tile, then click on the AVEdge SE 
 icon. Click 'Install', then click 'I Agree'. This will download 
-and install the lastest version of the build.
-Allow any Add-on updates to complete before streaming.
+and install the lastest version of the build. Now click 'Yes' to
+launch the build. Allow any Add-on updates to complete before 
+streaming.
