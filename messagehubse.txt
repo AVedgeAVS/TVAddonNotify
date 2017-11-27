@@ -1,12 +1,13 @@
-11
+12
 ||| 
 New update for AVEdge HUB SE. ***v8.1.5, updated 26-Nov-2017***
 
-Fixed adult section addon. Added Einthesan for East Indian movies
+Fixed adult section addon. Added Einthusan for East Indian movies.
 
-To check your current version, open to AVEdge SE and click on SYSTEM, 
-then scroll down and click on SERVICES, now check the DEVICE NAME. 
-To download the latest update: Go to the App draw and click on the 
-app AVEdge Updater SE. Click 'I Agree' and wait for the new version 
-to download and install. 
+If you are in the AVEdge SE build you check your current version 
+by clicking on SYSTEM, then scroll down and click on SERVICES, and 
+check the DEVICE NAME. To download the latest update: Open 
+AVEdge HUB, click on the BUILD tile, then click on the AVEdge SE 
+icon. Click 'Install', then click 'I Agree'. This will download 
+and install the lastest version of the build.
 Allow any Add-on updates to complete before streaming.
