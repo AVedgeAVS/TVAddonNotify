@@ -1,13 +1,12 @@
-10
+11
 ||| 
-New update for AVEdge HUB SE. ***v8.1.0, updated 21-Nov-2017***
+New update for AVEdge HUB SE. ***v8.1.5, updated 26-Nov-2017***
 
-Changed backgrounds, added a new section 'All in One', changed submenu
-for LIVE TV. Removed dead add-ons and fixed some minor bugs.
+Fixed adult section addon. Added Einthesan for East Indian movies
 
-To check your current version; inside AVEdge SE, click on SYSTEM, 
-then scroll down to SERVICES and check the DEVICE NAME. To get 
-the latest update: First quit out of AVEdge HUB SE, then open the App 
-draw and click on AVEdge HUB. Click on the BUILD icon, then click on
-the AVEdge SE icon. Click 'Install' to install the new version. Allow 
-any Add-on updates to complete before streaming.
+To check your current version, open to AVEdge SE and click on SYSTEM, 
+then scroll down and click on SERVICES, now check the DEVICE NAME. 
+To download the latest update: Go to the App draw and click on the 
+app AVEdge Updater SE. Click 'I Agree' and wait for the new version 
+to download and install. 
+Allow any Add-on updates to complete before streaming.
