@@ -1,13 +1,13 @@
-5
+6
 ||| 
-New update for AVEdge HUB build. ***v17.11.26, updated 26-Nov-2017***
+New update for AVEdge HUB build. ***v17.12.4, updated 4-Dec-2017***
 
-Fixed Adult section. Added Einthusan for Indian movies.
+Added a password to the Adult menu. Added movie a TV show apps to 
+Apps menu.
 
-To check your current version, open the AVEdge HUB build, click on 
-SYSTEM, then scroll down to SERVICES and check the DEVICE NAME. To 
-get the latest update of the AVEdge HUB build, open AVEdge HUB app 
-and click on the BUILD icon. Choose the AVEdge HUB icon. Click 
-'Install', then click 'I Agree' to download the new version. Now 
-click 'Yes' to launch the build.
-Allow any add-on updates to complete before streaming.
+Check your current version by clicking on SYSTEM. The version number is  
+in the lower right corner of the screen. To get the latest update 
+of the AVEdge HUB build, open AVEdge HUB app and click on the BUILD 
+icon. Choose the AVEdge HUB icon. Click 'Install', then click 
+'I Agree' to download the new version. Now click 'Yes' to launch the 
+build. Allow any add-on updates to complete before streaming.
