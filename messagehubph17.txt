@@ -1,9 +1,9 @@
-6
+7
 ||| 
-New update for AVEdge HUB build. ***v17.12.4, updated 4-Dec-2017***
+New update for AVEdge HUB build. ***v18.1.9, updated 9-Jan-2018***
 
-Added a password to the Adult menu. Added movie a TV show apps to 
-Apps menu.
+Removed some add-ons. Added more live TV from eastern Europe, the UK 
+(Supremacy TV) and from Afica and the caribbean. Check it out. 
 
 Check your current version by clicking on SYSTEM. The version number is  
 in the lower right corner of the screen. To get the latest update 
