@@ -1,7 +1,7 @@
-7
+8
 ||| 
 New update for AVEdge HUB build. ***v18.1.9, updated 9-Jan-2018***
-
+THE DOWNLOAD IS FIXED. YOU MAY NOW RUN THE UPDATER AGAIN.
 Removed some add-ons. Added more live TV from eastern Europe, the UK 
 (Supremacy TV) and from Afica and the caribbean. Check it out. 
 
