@@ -1,12 +1,11 @@
-12
+13
 ||| 
-New update for AVEdge HUB SE. ***v8.1.5, updated 26-Nov-2017***
+New update for AVEdge HUB SE. ***v8.2.1, updated 16-Jan-2018***
 
-Fixed adult section add-on. Added Einthusan for East Indian movies.
+Added more live TV add-ons, UK TV channels, Eastern European, and 
+Spanish. Made menus more readable, fixed some IPTV.
 
-To check your current version, open AVEdge SE Player and click on 
-SYSTEM, then scroll down and click on SERVICES, now check the 
-DEVICE NAME. To download the latest update: Go to the App draw and 
+To download the latest update: Go to the App draw and 
 click on the AVEdge Updater SE app. Click 'I Agree' and wait for 
 the new version to download and install. 
 Allow any add-on updates to complete before streaming.
