@@ -1,6 +1,6 @@
 13
 ||| 
-New update for AVEdge HUB SE. ***v8.2.1, updated 16-Jan-2018***
+New update for AVEdge SE. ***v8.2.1, updated 16-Jan-2018***
 
 Added more live TV add-ons, UK TV channels, Eastern European, and 
 Spanish. Made menus more readable, fixed some IPTV.
