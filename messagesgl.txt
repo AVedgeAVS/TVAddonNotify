@@ -1,9 +1,13 @@
-26
+27
 ||| 
-To our loyal users of AVEdge SE, we have come to the end of the road for this 
-version of the app. There will no longer be any updates. There is a new app for 
-AVEdge. You can contact us at avedgebox@gmail.com and we will email you the 
-instructions to update your software. Please let us know what box you have. 
-Either the Minix U1 or the X92 or Pendoo X92. You can also come see us at the 
-Pickering Market, aisle H, Booth 1512 to find out how you can get the new app 
-for free.
+To our loyal users of AVEdge SE; if you are seeing this notice, you are using our 
+discontinued app. There will no longer be any updates to this app. Our new app has 
+lots of new streaming plugins, with additional servers to stream the content you're
+looking for. Get our new app for free.
+
+Contact us at avedgebox@gmail.com, let us know what box you have, whether it's the 
+Minix U1 or the X92 or Pendoo X92. We will email you the instructions on how to 
+download and install our new AVEdge SE Player app. 
+
+You can also come see us at the Pickering Market. Bring your device and we'll uupdate 
+for free. You'll find us at Aisle H, Booth 1512. 
