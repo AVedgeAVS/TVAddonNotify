@@ -1,13 +1,14 @@
-8
+9
 ||| 
-New update for AVEdge HUB build. ***v18.1.9, updated 9-Jan-2018***
-THE DOWNLOAD IS FIXED. YOU MAY NOW RUN THE UPDATER AGAIN.
-Removed some add-ons. Added more live TV from eastern Europe, the UK 
-(Supremacy TV) and from Afica and the caribbean. Check it out. 
+NEW UPDATE for AVEdge HUB build. ***v18.2.8, updated 2-Feb-2018***
 
-Check your current version by clicking on SYSTEM. The version number is  
-in the lower right corner of the screen. To get the latest update 
-of the AVEdge HUB build, open AVEdge HUB app and click on the BUILD 
-icon. Choose the AVEdge HUB icon. Click 'Install', then click 
-'I Agree' to download the new version. Now click 'Yes' to launch the 
-build. Allow any add-on updates to complete before streaming.
+General disclaimer: Avedge Hub Player is a media center app designed 
+to allow users to access 3rd party applications that stream audio and 
+video content from the internet. The author of AVEdge HUB takes no 
+responsibility for the reliability of these applications. AVEdge HUB
+does not own, host, or distribute any of the content accessed through the 
+app. The user of this application accepts full responsibility for any 
+copyrighted material accessed through the AVEDge HUB Player.
+
+To update AVEdge HUB build, open AVEdge HUB Updater and click on BUILD 
+then AVEdge HUB. Click 'Install', then 'I Agree' to download the Player.
