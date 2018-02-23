@@ -1,6 +1,6 @@
-9
+10
 ||| 
-NEW UPDATE for AVEdge HUB build. ***v18.2.8, updated 2-Feb-2018***
+NEW UPDATE for AVEdge HUB build. ***v18.2.22, updated 22-Feb-2018***
 
 General disclaimer: Avedge Hub Player is a media center app designed 
 to allow users to access 3rd party applications that stream audio and 
