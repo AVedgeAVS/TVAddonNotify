@@ -1,14 +1,14 @@
-11
+12
 ||| 
-NEW UPDATE for AVEdge HUB build. ***v18.2.27, updated 27-Feb-2018***
+NEW UPDATE for AVEdge HUB build. ***v18.4.2, updated 4-Apr-2018***
 
-General disclaimer: Avedge Hub Player is a media center app designed 
-to allow users to access 3rd party applications that stream audio and 
-video content from the internet. The author of AVEdge HUB takes no 
-responsibility for the reliability of these applications. AVEdge HUB
-does not own, host, or distribute any of the content accessed through the 
-app. The user of this application accepts full responsibility for any 
-copyrighted material accessed through the AVEDge HUB Player.
-
-To update AVEdge HUB build, open AVEdge HUB Updater and click on BUILD 
+Fixed: LIVE TV not showing channels, Video Addons icon
+Removed: Plugins MIC, Adryanlist, Repos Adryanlist, Krazy One, Smash
+Added: Video addons Maverick TV, At the Flix, Now Music Videos
+Added: Live TV for Canada TV channels.
+General disclaimer: Avedge Hub Player is a media center. The author of 
+AVEdge HUB does not own, host, or distribute any of the content accessed 
+through the app. The user accepts full responsibility for any copyrighted 
+material accessed through the HUB Player.
+To update the AVEdge HUB build, open AVEdge HUB Updater and click on BUILD 
 then AVEdge HUB. Click 'Install', then 'I Agree' to download the Player.
