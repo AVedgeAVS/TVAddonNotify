@@ -1,10 +1,9 @@
-13
+14
 ||| 
-NEW UPDATE for AVEdge HUB build. ***v18.4.2, updated 4-Apr-2018***
+NEW UPDATE for AVEdge HUB build. ***v18.4.5, updated 5-Apr-2018***
 
-Fixed: LIVE TV not showing channels, Video Addons icon
-Removed: Plugins MIC, Adryanlist, Repos Adryanlist, Krazy One, Smash
-Added: Video addons Maverick TV, At the Flix, Now Music Videos
+Fixed: LIVE TV not showing channels
+Check out Maverick TV, At the Flix, Now Music Videos
 Added: Live TV for Canada TV channels.
 General disclaimer: Avedge Hub Player is a media center. The author of 
 AVEdge HUB does not own, host, or distribute any of the content accessed 
