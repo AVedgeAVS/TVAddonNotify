@@ -1,13 +1,14 @@
-14
+15
 ||| 
-NEW UPDATE for AVEdge HUB build. ***v18.4.5, updated 5-Apr-2018***
-
-Fixed: LIVE TV not showing channels
-Check out Maverick TV, At the Flix, Now Music Videos
-Added: Live TV for Canada TV channels.
+NEW UPDATE for AVEdge HUB build. ***v18.4.10, updated 10-Apr-2018***
+We've added more Live TV options with this latest version. 
+Check out: LIVE TV, Canada TV and Maverick TV. We also have Global, 
+CBC and City News for Canada content. And we have a new Movie plugin from
+Fluxus. 
 General disclaimer: Avedge Hub Player is a media center. The author of 
 AVEdge HUB does not own, host, or distribute any of the content accessed 
 through the app. The user accepts full responsibility for any copyrighted 
 material accessed through the HUB Player.
-To update the AVEdge HUB build, open AVEdge HUB Updater and click on BUILD 
-then AVEdge HUB. Click 'Install', then 'I Agree' to download the Player.
+
+To update the AVEdge HUB build; open AVEdge HUB Updater and click BUILD and  
+select AVEdge HUB. Click 'Install', then 'I Agree' to install AVEdge HUB.
