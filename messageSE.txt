@@ -1,11 +1,13 @@
-13
+14
 ||| 
-New update for AVEdge SE. ***v8.2.1, updated 16-Jan-2018***
+New update for AVEdge SE. ***v18.4.12, updated 12-Apr-2018***
+Great news loyal AVEdge SE users, we've now transitioned you from 
+the SE to the HUB. The AVEdge HUB is our most featured filled build 
+for AVEdge. You now have all the latest plugins and our exciting HUB 
+user interface for yuor streaming pleasure. There's lots to tryout and 
+discover, so start using the HUB right away. Enjoy!
 
-Added more live TV add-ons, UK TV channels, Eastern European, and 
-Spanish. Made menus more readable, fixed some IPTV.
-
-To download the latest update: Go to the App draw and 
+To download this latest version: Go to the App draw and 
 click on the AVEdge Updater SE app. Click 'I Agree' and wait for 
 the new version to download and install. 
 Allow any add-on updates to complete before streaming.
