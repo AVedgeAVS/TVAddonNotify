@@ -1,13 +1,13 @@
-16
+17
 ||| 
-NEW UPDATE for AVEdge HUB build. ***v18.4.11, updated 11-Apr-2018***
-
+NEW UPDATE for AVEdge HUB build. ***v18.4.15, updated 15-Apr-2018***
 Hey loyal AVEdge HUB users, if you haven't updated your AVEdge HUB lately,
 do it now. We've added more live TV options and movie and TV show plugins.
 Click on LIVE on the main menu for hundreds of TV channels. The LIVE sub-menu 
 has Rising Tide for UK, USA and other channels from around the world and we 
 added a link to CBC Toronto, Global Toronto and CBC News! And check out 
 Fluxus Cinema in the MOVIES section for movies going back to the 1920's.
+
 General disclaimer: Avedge Hub Player is a media center. The author of 
 AVEdge HUB does not own, host, or distribute any of the content accessed 
 through the app. The user accepts full responsibility for any copyrighted 
