@@ -1,12 +1,11 @@
-17
+18
 ||| 
-NEW UPDATE for AVEdge HUB build. ***v18.4.15, updated 15-Apr-2018***
-Hey loyal AVEdge HUB users, if you haven't updated your AVEdge HUB lately,
-do it now. We've added more live TV options and movie and TV show plugins.
-Click on LIVE on the main menu for hundreds of TV channels. The LIVE sub-menu 
-has Rising Tide for UK, USA and other channels from around the world and we 
-added a link to CBC Toronto, Global Toronto and CBC News! And check out 
-Fluxus Cinema in the MOVIES section for movies going back to the 1920's.
+NEW UPDATE for AVEdge HUB build. ***v18.4.25, updated 25-Apr-2018***
+Changed MOVIES and SHOWS to use Neptune. Works fast, try it out.
+Changed ADULT add-on. Code remains the same.
+Minor menu changes.
+If you haven't yet, try Fluxus Cinema under MOVIES, and Rising Tide under 
+Live TV. These are working great.
 
 General disclaimer: Avedge Hub Player is a media center. The author of 
 AVEdge HUB does not own, host, or distribute any of the content accessed 
