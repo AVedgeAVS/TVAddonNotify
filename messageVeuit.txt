@@ -1,0 +1,14 @@
+1
+||| 
+Welcome to Veu-It, a simple media center app that lets you stream 
+your favourite movies, TV shows, music, and even find live TV 
+Channels. There are many ways for you to stream what you want in HD 
+with no buffering or freezing. Just click on the menu section and 
+find what you are looking for.
+
+Veu-It has an Update feature in the SETTINGS menu that you can run 
+at any time to update or reinstall the app. Remember you must 
+'Force Stop' Veu-It after running the update so that it can install 
+the new app properly. 
+
+We hope you enjoy Veu-It.
