@@ -1,8 +1,8 @@
-1
+2
 ||| 
 Welcome to Veu-It, a simple media center app that lets you stream 
 your favourite movies, TV shows, music, and even find live TV 
-Channels. There are many ways for you to stream what you want in HD 
+channels. There are many ways for you to stream, what you want, in HD 
 with no buffering or freezing. Just click on the menu section and 
 find what you are looking for.
 
