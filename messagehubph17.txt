@@ -1,13 +1,13 @@
-18
+19
 ||| 
-NEW UPDATE for AVEdge HUB build. ***v18.4.25, updated 25-Apr-2018***
-Changed MOVIES and SHOWS to use Neptune. Works fast, try it out.
-Changed ADULT add-on. Code remains the same.
-Minor menu changes.
-If you haven't yet, try Fluxus Cinema under MOVIES, and Rising Tide under 
-Live TV. These are working great.
+NEW UPDATE for AVEdge HUB build. ***v18.5.16, updated 16-May-2018***
+Fixed and enhanced functionality of LIVE channels loading more easily. 
+You will find 2100+ channels in LIVE on the main menu.
+Added our brand new addon to give more live TV channels. Go to APPS and 
+look for the MKcanlive addon. We are now building our lists of channels, 
+for that addon, but the US TV lists is up and running. Try it out.
 
-General disclaimer: Avedge Hub Player is a media center. The author of 
-AVEdge HUB does not own, host, or distribute any of the content accessed 
+General disclaimer: AV Edge Hub Player is a media center app. The author 
+of AV Edge HUB does not own, host, or distribute any of the content accessed 
 through the app. The user accepts full responsibility for any copyrighted 
-material accessed through the HUB Player.
+material accessed through the AV Edge HUB Player.
