@@ -1,11 +1,12 @@
-19
+21
 ||| 
-NEW UPDATE for AVEdge HUB build. ***v18.5.16, updated 16-May-2018***
-Fixed and enhanced functionality of LIVE channels loading more easily. 
-You will find 2100+ channels in LIVE on the main menu.
+NEW UPDATE for AVEdge HUB & SE build. ***v18.5.16, updated 16-May-2018***
+
+Fixed and enhanced the functionality of LIVE channels to load more easily. 
+There's now over 2100 channels in LIVE on the main menu, thanks to Fluxux.
 Added our brand new addon to give more live TV channels. Go to APPS and 
-look for the MKcanlive addon. We are now building our lists of channels, 
-for that addon, but the US TV lists is up and running. Try it out.
+look for the MKcanlive video addon. We're still building our channel lists 
+for that addon, but the US TV list is up and running. Try it out.
 
 General disclaimer: AV Edge Hub Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
