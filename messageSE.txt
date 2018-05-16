@@ -1,12 +1,14 @@
-17
+19
 ||| 
-New update for AVEdge SE. ***v18.4.25, updated 25-Apr-2018***
-Hey AVEdge users, we've changed the Movies and TV Shows to Nwptune. 
-It's a lot faster and the links are working well. Also try Flus us 
-Cinema for movies. We've added CBC News Live to LIVE TV and we've 
-changed the Adult section as well.
+NEW UPDATE for AVEdge HUB & SE build. ***v18.5.16, updated 16-May-2018***
 
-To download this latest version: Go to the App draw and 
-click on the AVEdge Updater SE app. Click 'I Agree' and wait for 
-the new version to download and install. 
-Allow any add-on updates to complete before streaming.
+Fixed and enhanced the functionality of LIVE channels to load more easily. 
+There's nowm over 2100 channels in LIVE on the main menu, thanks to Fluxux.
+Added our brand new addon to give more live TV channels. Go to APPS and 
+look for the MKcanlive video addon. we're still building our channels list 
+for that addon, but the US TV list is up and running. Try it out.
+
+General disclaimer: AV Edge Hub Player is a media center app. The author 
+of AV Edge HUB does not own, host, or distribute any of the content accessed 
+through the app. The user accepts full responsibility for any copyrighted 
+material accessed through the AV Edge HUB Player.
