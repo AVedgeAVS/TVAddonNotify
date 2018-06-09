@@ -1,6 +1,6 @@
 23
 ||| 
-NEW UPDATE for AV Edge HUB build. ***v18.6.07, updated 6-Jun-2018***
+NEW UPDATE for AV Edge HUB build. ***v18.6.07, updated 7-Jun-2018***
 
 Fixed: Fluxus Cinema links not loading; LIVE channels not playing.
 Adult links not loading.
