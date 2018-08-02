@@ -1,4 +1,4 @@
-24
+26
 ||| 
 NEW UPDATE for AV Edge HUB build. ***v18.8.02, updated 2-Aug-2018***
 ***WE'VE DONE SOME BIG CHANGES***
