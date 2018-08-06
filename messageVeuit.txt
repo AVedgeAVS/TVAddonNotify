@@ -1,4 +1,4 @@
-6
+7
 ||| 
 !!! All new Veu-It, version v1.0.3 for 6-August-2018 !!! Click on 'Update Veu-It' 
 in the SETTINGS sub-menu to update to the latest version of Veu-It. Remember 
@@ -15,6 +15,6 @@ Added: An Android Apps section to the APPS submenu. This lets you run all the ap
 your device within the Veu-It app.
 Added: Man Cave Adult to the ADULT 18+ sub-menu.
 
-Description: Veu-It is an All-in-One streaming app for movies, TV shows, music, live Tv 
+Description: Veu-It is an All-in-One streaming app for movies, TV shows, music, live TV 
 and sports.  With a built-in updating feature, the user can update (or reinstall) the 
-latest version of the app, within the app.
+latest version of the app, right in the app. Enjoy streaming with Veu-It.
