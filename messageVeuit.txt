@@ -1,4 +1,4 @@
-7
+8
 ||| 
 !!! All new Veu-It, version v1.0.3 for 6-August-2018 !!! Click on 'Update Veu-It' 
 in the SETTINGS sub-menu to update to the latest version of Veu-It. Remember 
