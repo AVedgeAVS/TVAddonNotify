@@ -1,14 +1,14 @@
-3
+4
 ||| 
-Newest version v1.0.2. Click on Update Veu-It in Settings sub-menu.
+!!! All new Veu-It, version v1.0.3 !!! Click on 'Update Veu-It' in the SETTINGS  
+sub-menu to update to the latest version of Veu-It. Remember you must 'Force Stop'
+Veu-It after running the update so that it can install the new app properly. 
 
-Welcome to Veu-It, a simple media center app that lets you stream 
-your favourite movies, TV shows, music, and even find live TV 
-channels. There are many ways for you to stream, what you want, in HD 
-with no buffering or freezing. Just click on the menu section and 
-find what you are looking for.
-
-Veu-It has an Update feature in the SETTINGS submenu that you can run 
-at any time to update or reinstall the app. Remember you must 
-'Force Stop' Veu-It after running the update so that it can install 
-the new app properly. 
+Fixed: MOVIES and TV SHOWS not loading streams.
+Added: Man Cave Movies, a Kids and Anime/Cartoon section to MOVIES sub-menu.
+Added: Man Cave TV Shows and MC Flix TV to TV SHOWS sub-menu.
+Added: Man Cave Music to MUSIC sub-menu.
+Added: CBC Toronto, Global Toronto, Live Sports, and 24/7 Live to the LIVE TV 
+sub-menu.
+Added: Android Apps section to the APPS submenu.
+Added: Man Cave Adult to ADULT 18+ sub-menu.
