@@ -1,13 +1,13 @@
-27
+31
 ||| 
-NEW UPDATE for AV Edge HUB build. ***v18.8.16, updated 16-Aug-2018***
+NEW UPDATE for AV Edge HUB build. ***v18.9.15, updated 15-Sep-2018***
 
-FIXED: MOVIES and SHOWS. Replaced Neptune with a rebuilt Exodus!
-REPLACED: Man Cave Live TV with Man Cave Jen TV. Lots of working channels.
-Added: Free Live TV addon. You can find this addon in APPS. Lots of UK 
-channels that are all legal and works well.
+FIXED: LIVE channels not working. Live channels will no longer load at startup.
+REPLACED: LIVE channels with a direct link to Fluxus IPTV channels. Fluxus Cinema 
+with ATF Movie Direct Links for easier movie streaming. Man Cave in LIVE with 
+Lodge IPTV and ATF Live TV for better links to US, UK and sports channels.
 
-General disclaimer: AV Edge Hub Player is a media center app. The author 
-of AV Edge HUB does not own, host, or distribute any of the content accessed 
+General disclaimer: AV Edge HUB Player is a media center app. The author 
+of AV Edge SE does not own, host, or distribute any of the content accessed 
 through the app. The user accepts full responsibility for any copyrighted 
 material accessed through the AV Edge HUB Player.
