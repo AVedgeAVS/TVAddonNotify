@@ -1,19 +1,21 @@
-8
+9
 ||| 
-!!! All new Veu-It, version v1.0.3 for 6-August-2018 !!! Click on 'Update Veu-It' 
+!!! All new Veu-It, version v1.0.4 for 21-Sep-2018 !!! Click on 'Update Veu-It' 
 in the SETTINGS sub-menu to update to the latest version of Veu-It. Remember 
 you must 'Force Stop' Veu-It after running the update so that it can install 
 the new app properly. 
 
 Fixed:The MOVIES and TV SHOWS sections not loading some streaming content.
-Added: Man Cave Movies and a Kids and Anime/Cartoon section to the MOVIES sub-menu.
-Added: Man Cave TV Shows and MC Flix TV to the TV SHOWS sub-menu.
-Added: Man Cave Music to the MUSIC sub-menu.
-Added: Channels CBC Toronto, Global Toronto, and some more Live Sports channels. Also 
-includes a 24/7 Live TV to the LIVE TV sub-menu.
-Added: An Android Apps section to the APPS submenu. This lets you run all the apps on 
-your device within the Veu-It app.
-Added: Man Cave Adult to the ADULT 18+ sub-menu.
+Added: The CBC Network channels, including the National News channel to LIVE sub-menu.
+Removed: The loading of channels on startup. Those channels can still be found in LIVE.
+Added: YouPorn to the Adult 18+.
+
+How to install the Adult 18+ on to the main menu: 
+Go to SETTINGS and press the Down-arrow button on your remote to bring up the sub-menu. 
+Click on Skin Settings, then scroll down the left side to Backup/Restore. Press the 
+Right-arrow button on your remote and select 'Restore skin settings from a file'. Select 
+the 'Veu-It backups' folder and choose VEU-IT-BCK-ADULT.zip. Wait for the restore to complete 
+and click OK.
 
 Description: Veu-It is an All-in-One streaming app for movies, TV shows, music, live TV 
 and sports.  With a built-in updating feature, the user can update (or reinstall) the 
