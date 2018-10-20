@@ -1,11 +1,7 @@
-31
+33
 ||| 
-NEW UPDATE for AV Edge HUB build. ***v18.9.15, updated 15-Sep-2018***
+NEW UPDATE for AV Edge HUB build. ***v18.10.19, updated 19-Oct-2018***
 
-FIXED: LIVE channels not working. Live channels will no longer load at startup.
-REPLACED: LIVE channels with a direct link to Fluxus IPTV channels. Fluxus Cinema 
-with ATF Movie Direct Links for easier movie streaming. Man Cave in LIVE with 
-Lodge IPTV and ATF Live TV for better links to US, UK and sports channels.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
