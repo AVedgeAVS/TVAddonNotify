@@ -1,12 +1,10 @@
-32
+33
 ||| 
-NEW UPDATE for AV Edge SE build. ***v18.10.12, updated 12-Oct-2018***
+NEW UPDATE for AV Edge SE build. ***v18.10.19, updated 19-Oct-2018***
 We've created a whole new look for SE. The changes were done to make the app 
 easier to use and to have a clean look to it. SOme of the changes are:
 - The Main menu now runs vertically along the left side of the screen
-- MOVIES and SHOWS now has Widgets for Most Popular 
-- Views within movie and TV show lists are now icons for easier identification
-- Background pictures were removed to create a cleaner look.
+- Views within movie and TV show lists are now icons for easier identification.
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
