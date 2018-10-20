@@ -2,6 +2,10 @@
 ||| 
 NEW UPDATE for AV Edge HUB build. ***v18.10.19, updated 19-Oct-2018***
 
+We've created a whole new look for SE. The changes were done to make the app 
+easier to use and to have a clean look to it. SOme of the changes are:
+- The Main menu now runs vertically along the left side of the screen
+- Views within movie and TV show lists are now icons for easier identification.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
