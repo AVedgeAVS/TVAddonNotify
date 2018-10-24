@@ -1,22 +1,20 @@
-9
+10
 ||| 
-!!! All new Veu-It, version v1.0.4 for 21-Sep-2018 !!! Click on 'Update Veu-It' 
-in the SETTINGS sub-menu to update to the latest version of Veu-It. Remember 
-you must 'Force Stop' Veu-It after running the update so that it can install 
-the new app properly. 
+!!! All new Veu-It, version v1.0.5 for 24-Oct-2018 !!! To update to the newest version: 
+Go to SETTINGS and press the Down-arrow button on your remote to bring up the sub-menu.
+Click on 'Update Veu-It'. The update will start automatically. When the update is complete, 
+you must restart your device to install the new version properly.
 
-Fixed:The MOVIES and TV SHOWS sections not loading some streaming content.
-Added: The CBC Network channels, including the National News channel to LIVE sub-menu.
-Removed: The loading of channels on startup. Those channels can still be found in LIVE.
-Added: YouPorn to the Adult 18+.
+Fixed:The MOVIES and TV SHOWS sections not loading properly. TV channels in LIVE now load 
+more quickly.
+Removed: Genesis Reborn, Showbox Arise, LubeTube.
+Added: RT Live News in Video Addons. Subtitles for MOVIES and TV SHOWS.
+Replaced: Top Albums with You Music in MUSIC. System Information with Speed Tester in 
+SETTINGS.
 
-How to install the Adult 18+ on to the main menu: 
+How to reinstall the Veu-It Main menu screen: 
 Go to SETTINGS and press the Down-arrow button on your remote to bring up the sub-menu. 
 Click on Skin Settings, then scroll down the left side to Backup/Restore. Press the 
 Right-arrow button on your remote and select 'Restore skin settings from a file'. Select 
-the 'Veu-It backups' folder and choose VEU-IT-BCK-ADULT.zip. Wait for the restore to complete 
-and click OK.
-
-Description: Veu-It is an All-in-One streaming app for movies, TV shows, music, live TV 
-and sports.  With a built-in updating feature, the user can update (or reinstall) the 
-latest version of the app, right in the app. Enjoy streaming with Veu-It.
+the 'Veu-It backups' folder and choose the menu you wish to install, ADULT or DEFAULT. Wait
+for the restore to complete and click OK. Allow any updates to complete before streaming.
