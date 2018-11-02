@@ -1,13 +1,13 @@
-33
+34
 ||| 
-NEW UPDATE for AV Edge HUB build. ***v18.10.19, updated 19-Oct-2018***
+NEW UPDATE for AV Edge HUB build. ***v18.11.2, updated 2-Nov-2018***
 
-We've created a whole new look for SE. The changes were done to make the app 
-easier to use and to have a clean look to it. SOme of the changes are:
-- The Main menu now runs vertically along the left side of the screen
-- Views within movie and TV show lists are now icons for easier identification.
+Removed: Openload captchas as much as possible. 
+Fixed: Orphaned dependancies. MOVIES and SHOWS not loading properly. 
+LIVE channels not loading.
+Replaced: In Theatres with New Movies in MOVIES sub-menu
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
-of AV Edge SE does not own, host, or distribute any of the content accessed 
+of AV Edge HUB does not own, host, or distribute any of the content accessed 
 through the app. The user accepts full responsibility for any copyrighted 
 material accessed through the AV Edge HUB Player.
