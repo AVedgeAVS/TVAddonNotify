@@ -1,16 +1,13 @@
-10
+11
 ||| 
-!!! All new Veu-It, version v1.0.5 for 24-Oct-2018 !!! To update to the newest version: 
+!!! All new Veu-It, version v1.0.6 for 3-Nov-2018 !!! To update to the newest version: 
 Go to SETTINGS and press the Down-arrow button on your remote to bring up the sub-menu.
 Click on 'Update Veu-It'. The update will start automatically. When the update is complete, 
 you must restart your device to install the new version properly.
 
 Fixed:The MOVIES and TV SHOWS sections not loading properly. TV channels in LIVE now load 
 more quickly.
-Removed: Genesis Reborn, Showbox Arise, LubeTube.
-Added: RT Live News in Video Addons. Subtitles for MOVIES and TV SHOWS.
-Replaced: Top Albums with You Music in MUSIC. System Information with Speed Tester in 
-SETTINGS.
+Removed: Openload pairing requests.
 
 How to reinstall the Veu-It Main menu screen: 
 Go to SETTINGS and press the Down-arrow button on your remote to bring up the sub-menu. 
