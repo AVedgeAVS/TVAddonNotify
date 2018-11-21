@@ -1,11 +1,11 @@
-34
+37
 ||| 
-NEW UPDATE for AV Edge HUB build. ***v18.11.2, updated 2-Nov-2018***
+NEW UPDATE for AV Edge HUB build. ***v18.11.20, updated 20-Nov-2018***
 
 Removed: Openload captchas as much as possible. 
 Fixed: Orphaned dependancies. MOVIES and SHOWS not loading properly. 
-LIVE channels not loading.
-Replaced: In Theatres with New Movies in MOVIES sub-menu
+Added: PLEX addon for those who want to connect to a PLEX server for streaming
+content
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
