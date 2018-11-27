@@ -1,11 +1,11 @@
-37
+38
 ||| 
-NEW UPDATE for AV Edge SE build. ***v18.11.20, updated 20-Nov-2018***
+NEW UPDATE for AV Edge SE build. ***v18.11.26, updated 26-Nov-2018***
 
-Removed: Openload captchas as much as possible. 
-Fixed: Orphaned dependancies. MOVIES and SHOWS not loading properly. 
-Added: PLEX addon for those who want to connect to a PLEX server for streaming
-content
+Removed: Non-functioning addons. 
+Fixed: Orphaned dependancies. MOVIES and SHOWS. 
+Added: PLEX addon, Joyride addon for the auto racing enthusiasts, 
+Real Debrid links, Exodus Redux another movies and TV shows addon.
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
