@@ -1,11 +1,12 @@
-38
-||| 
-NEW UPDATE for AV Edge SE build. ***v18.11.26, updated 26-Nov-2018***
+39
+|||
+NEW UPDATE for AV Edge SE build. ***v18.11.27, updated 27-Nov-2018***
 
-Removed: Non-functioning addons. 
-Fixed: Orphaned dependancies. MOVIES and SHOWS. 
-Added: PLEX addon, Joyride addon for the auto racing enthusiasts, 
-Real Debrid links, Exodus Redux another movies and TV shows addon.
+Changed: MOVIES and SHOWS submenu to include Yoda addon. Minor changes to 
+MOVIES and SHOWS submenu.
+Fixed: MOVIES and SHOWS uses Neptune Rising, content now loads quicker.
+Added: Joyride addon to LIVE submenu for the auto racing enthusiasts, a 
+Christmas Movies section to KIDS, Exodus Redux for movies and TV shows.
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
