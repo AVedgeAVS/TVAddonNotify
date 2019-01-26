@@ -1,8 +1,8 @@
-40
+41
 ||| 
-NEW UPDATE for AV Edge HUB build. ***v18.12.1, updated 1-Dec-2018***
+NEW UPDATE for AV Edge HUB build. ***v19.1.24, updated 24-Jan***
 
-Fixed: MOVIES and SHOWS using Real Debrid and Exodus. LIVE is back up.
+LIVE is back up.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
