@@ -1,8 +1,8 @@
-40
+41
 ||| 
-NEW UPDATE for AV Edge SE build. ***v18.12.5, updated 5-Dec-2018***
+NEW UPDATE for AV Edge SE build. ***v19.1.24, updated 24-Jan-2019***
 
-Fixed: MOVIES and SHOWS using Real Debrid and Exodus. LIVE is back up.
+LIVE is back up and running..
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
