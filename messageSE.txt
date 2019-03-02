@@ -1,8 +1,8 @@
-41
+42
 ||| 
-NEW UPDATE for AV Edge SE build. ***v19.1.24, updated 24-Jan-2019***
+***2-Mar-2019***
 
-LIVE is back up and running..
+LIVE is back up and running. Please run the AV Edge SE Updater to installl the fix.
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
