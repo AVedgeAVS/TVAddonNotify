@@ -1,8 +1,12 @@
-42
+43
 ||| 
-***2-Mar-2019***
+***7-Mar-2019*** There's a new version of AV Edge SE Player: v19.3.7
 
-LIVE is back up and running. Please run the AV Edge SE Updater to installl the fix.
+Added: New addons in KIDS. Karaoke and Concerts in MUSIC. More adult content in 
+ADULT.
+New: SPORTS section with lots of live sports channels. Click on SPORTS or check 
+the sub-menu for more sports. New addon Ghost TV with movies, TV shows & live TV. 
+Removed: Dead links and addons.
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
