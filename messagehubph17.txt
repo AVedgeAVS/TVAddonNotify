@@ -1,12 +1,10 @@
-43
+44
 ||| 
-***7-Mar-2019*** There's a new version of AV Edge HUB Player: v19.3.7
+***25-Mar-2019*** There's a new version of AV Edge HUB Player: v19.3.25
 
-Added: New addons in KIDS. Karaoke and Concerts in MUSIC. More adult content in 
-ADULT.
-New: SPORTS section with lots of live sports channels. Click on SPORTS or check 
-the sub-menu for more sports. New addon Ghost TV with movies, TV shows & live TV. 
-Removed: Dead links and addons.
+Added: Video Addons to the APPS submenu
+Removed: Ghost TV frmo APPS submenu
+Other minor fixes.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
