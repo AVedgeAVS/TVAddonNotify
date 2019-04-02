@@ -1,10 +1,11 @@
-44
+45
 ||| 
-***25-Mar-2019*** There's a new version of AV Edge HUB Player: v19.3.25
+***1-Apr-2019*** There's an update to AV Edge HUB Player: The version remains 
+the same, v19.3.25
 
-Added: Video Addons to the APPS submenu
-Removed: Ghost TV frmo APPS submenu
-Other minor fixes.
+Fixed: URL for LIVE TV channels.
+
+Please run the AV Edge HUB updater to install the fix.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
