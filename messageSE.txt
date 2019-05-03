@@ -1,11 +1,9 @@
-46
+47
 ||| 
-***12-Apr-2019*** There's an update to AV Edge SE Player: v19.4.12
+***3-May-2019*** There's an update to AV Edge SE Player: v19.5.3
 
-Fixed: Maverick TV, Man Cave, Kiddo, JoyRide, Supremacy, YouTube, 
-GLobe TV, Plex, URL for LIVE TV channels.
-Removed: Ghost TV, Chronos Sports
-Added: New Supremacy Sports, Planet MMA, YouPorn
+Removed: Ghost TV, Chronos Sports, YouPorn, Supremacy Sports, SPORTS section
+Added: Fluxus Lust
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
