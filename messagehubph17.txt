@@ -1,9 +1,10 @@
-47
+48
 ||| 
-***3-May-2019*** There's an update to AV Edge HUB Player: v19.5.3
+***8-May-2019*** There's an update to AV Edge HUB Player: v19.5.8
 
-Removed: Ghost TV, Chronos Sports, YouPorn, Supremacy Sports, SPORTS section
-Added: Fluxus Lust
+Removed: Man Cave XXX, At the Flix Live TV
+Added: Fantasti.cc in ADULT, SPORTS section with MMA, Joyride and NBC Golf, 
+Arawak Live TV to LIVE, Einthusan to MOVIES, Plex to APPS.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
