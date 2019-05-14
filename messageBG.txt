@@ -1,0 +1,12 @@
+48
+||| 
+***14-May-2019*** There's an update to AV Edge HUB BG build: v19.5.14
+
+Welcome to the new AV Edge HUB BG build. This build is taken from the 
+Black Glassnova skin and refined to include all the exciting content you 
+expect from AV Edge HUB.
+
+General disclaimer: AV Edge HUB Player is a media center app. The author 
+of AV Edge HUB does not own, host, or distribute any of the content accessed 
+through the app. The user accepts full responsibility for any copyrighted 
+material accessed through the AV Edge HUB Player.
