@@ -1,10 +1,10 @@
-48
+49
 ||| 
-***8-May-2019*** There's an update to AV Edge HUB Player: v19.5.8
+***25-May-2019*** There's an update to AV Edge HUB Player: v19.5.25
 
-Removed: Man Cave XXX, At the Flix Live TV
-Added: Fantasti.cc in ADULT, SPORTS section with MMA, Joyride and NBC Golf, 
-Arawak Live TV to LIVE, Einthusan to MOVIES, Plex to APPS.
+Replaced: MC Concerts with Aliunde Concerts.
+Added: Aliunde All-in-One in APPS, Live Sports from SportDevil in SPORTS.
+Changed: Subtitles in MOVIES will no longer be on by default.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
