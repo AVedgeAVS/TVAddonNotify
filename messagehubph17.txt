@@ -1,10 +1,10 @@
-49
+50
 ||| 
-***25-May-2019*** There's an update to AV Edge HUB Player: v19.5.25
+***30-May-2019*** There's an update to AV Edge HUB Player: v19.5.30
 
-Replaced: MC Concerts with Aliunde Concerts.
-Added: Aliunde All-in-One in APPS, Live Sports from SportDevil in SPORTS.
-Changed: Subtitles in MOVIES will no longer be on by default.
+Fixed: SPORTS not loading. LIVE not loading all channels.
+Added: YouTube Music Videos, Live Sports links in SPORTS submenu.
+Replace: MC Concerts with Aliunde Concerts.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
