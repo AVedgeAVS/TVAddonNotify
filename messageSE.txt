@@ -1,10 +1,10 @@
-48
+50
 ||| 
-***8-May-2019*** There's an update to AV Edge SE Player: v19.5.8
+***30-May-2019*** There's an update to AV Edge SE Player: v19.5.30
 
-Removed: Man Cave XXX, At the Flix Live TV
-Added: Fantasti.cc in ADULT, SPORTS section with MMA, Joyride and NBC Golf, 
-Arawak Live TV to LIVE, Einthusan to MOVIES, Plex to APPS.
+Fixed: SPORTS not loading. LIVE not loading all channels.
+Added: YouTube Music Videos, Live Sports links in SPORTS submenu.
+Replace: MC Concerts with Aliunde Concerts.
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
