@@ -1,10 +1,8 @@
-50
+51
 ||| 
-***30-May-2019*** There's an update to AV Edge HUB Player: v19.5.30
+***1-June-2019*** There's an update to AV Edge HUB Player: v19.5.30
 
-Fixed: SPORTS not loading. LIVE not loading all channels.
-Added: YouTube Music Videos, Live Sports links in SPORTS submenu.
-Replace: MC Concerts with Aliunde Concerts.
+Fixed: LIVE TV URL update error
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
