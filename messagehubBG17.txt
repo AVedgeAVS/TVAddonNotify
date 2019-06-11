@@ -1,12 +1,12 @@
-50
+51
 ||| 
 ***10-June-2019*** AV Edge HUB BG build current version: v19.6.10
 
-Welcome to the new AV Edge HUB BG build. This exciting new build from 
-AV Edge is designed to give you faster streaming and an easier to use 
-interface with a bright and colourful backgrounds for an stimulating user
-experience. We will be adding more exciting content in the weeks to
-come. Enjoy or new AV Edge BG.
+This exciting new build from AV Edge is designed to give you faster streaming 
+and an easier to use interface with bright and colourful backgrounds for a 
+stimulating user experience. AV Edge BG includes all the usual content you get 
+with the HUB, and we will be adding even more exciting content in the weeks to come. 
+Enjoy the new AV Edge HUB BG build.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
