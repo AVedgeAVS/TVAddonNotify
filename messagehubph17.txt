@@ -1,10 +1,12 @@
-52
+53
 ||| 
-***1-June-2019*** There's an update to AV Edge HUB Player: v19.5.30
+***22-June-2019*** Current version of AV Edge HUB Player is v19.5.30
 
-Fixed: LIVE TV URL update error, SPORTS not loading. LIVE not loading all channels.
-Added: YouTube Music Videos, Live Sports links in SPORTS submenu.
-Replace: MC Concerts with Aliunde Concerts.
+- If you are still getting the message in Fluxus Lust 18+ to 'Update your 
+URL', find the AVEdge HUB app in the App Draw and click on it to update.
+- If after updating the app you still cannot get to Fluxus Lust 18+, then go 
+to APPS in the Main menu, find the app PLAYLIST LOADER and click on it. Then 
+click on Fluxus Lust 18+.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
