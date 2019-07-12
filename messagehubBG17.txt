@@ -1,11 +1,10 @@
-51
+52
 ||| 
-***10-June-2019*** AV Edge HUB BG build current version: v19.6.10
+***11-July-2019*** AV Edge HUB BG build current version: v19.7.11
 
-This exciting new build from AV Edge is designed to give you faster streaming 
-and an easier to use interface with bright and colourful backgrounds for a 
-stimulating user experience. AV Edge BG includes all the usual content you get 
-with the HUB, and we will be adding even more exciting content in the weeks to come. 
+We made some minor changes to the AV Edge BG build. 
+Fluxus Lust 18+ is fixed and MC Karaoke was replaced with Aliunde Karaoke.
+
 Enjoy the new AV Edge HUB BG build.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
