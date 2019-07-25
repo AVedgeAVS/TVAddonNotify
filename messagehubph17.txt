@@ -1,11 +1,10 @@
-54
+55
 ||| 
-***11-July-2019*** Current version of AV Edge HUB Player is v19.7.11
+***24-July-2019*** Current version of AV Edge HUB Player is v19.7.24
 
-Fixed - Fluxus Lust 18+
-Replaced - MC Karaoke with Aliunde Karaoke
-Removed - Mavarick TV, Supremacy, JoyRide, MMA Planet, Kid Nation. We hope we 
-can bring some of them back soon.
+Added: Documentaries in MOVIES, 24/7 TV showa in SHOWS, Health and Fitness 
+in SPORTS.
+Removed: Non-working addons.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
