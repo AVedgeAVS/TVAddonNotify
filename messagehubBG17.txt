@@ -1,9 +1,8 @@
-52
+53
 ||| 
-***11-July-2019*** AV Edge HUB BG build current version: v19.7.11
+***28-July-2019*** AV Edge HUB BG build current version: v19.7.28
 
 We made some minor changes to the AV Edge BG build. 
-Fluxus Lust 18+ is fixed and MC Karaoke was replaced with Aliunde Karaoke.
 
 Enjoy the new AV Edge HUB BG build.
 
