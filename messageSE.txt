@@ -1,11 +1,9 @@
-54
+55
 ||| 
-***13-July-2019*** Current version of AV Edge SE Player is v19.7.12
+***21-Aug-2019*** Current version of AV Edge SE Player is v19.7.12
 
-Fixed - Fluxus Lust 18+
-Replaced - MC Karaoke with Aliunde Karaoke
-Removed - Mavarick TV, Supremacy, JoyRide, MMA Planet, Kid Nation. We hope we 
-can bring some of them back soon.
+We've updated the AV Edge SE Player. Go to the APP Draw on your device and 
+run the AVEdge SE Updater to get th new update.
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
