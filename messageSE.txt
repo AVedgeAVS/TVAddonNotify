@@ -1,9 +1,12 @@
-55
+56
 ||| 
-***21-Aug-2019*** Current version of AV Edge SE Player is v19.7.12
+***26-Oct-2019*** Current version of AV Edge SE Player is v19.10.26
 
 We've updated the AV Edge SE Player. Go to the APP Draw on your device and 
 run the AVEdge SE Updater to get th new update.
+Fixed: Einthusan for East Asian movies
+Removed: SPORTS section
+Added: Plex addon to MOVIES and TV SHOWS, Deceit addon to APPS
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
