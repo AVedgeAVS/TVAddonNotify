@@ -1,8 +1,12 @@
-56
+57
 ||| 
-***27-Aug-2019*** Current version of AV Edge HUB Player is v19.7.24
+***26-Oct-2019*** Current version of AV Edge HUB Player is v19.10.26
 
-Updated: Addons
+We've updated the AV Edge HUB Player.
+Fixed: Einthusan for East Asian movies
+Removed: SPORTS section
+Added: Plex addon to MOVIES and TV SHOWS, Deceit addon to APPS, NBC Golf to
+LIVE.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
