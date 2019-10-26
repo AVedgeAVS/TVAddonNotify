@@ -1,10 +1,12 @@
-53
+54
 ||| 
-***28-July-2019*** AV Edge HUB BG build current version: v19.7.28
-
-We made some minor changes to the AV Edge BG build. 
-
-Enjoy the new AV Edge HUB BG build.
+***26-Oct-2019*** AV Edge HUB BG build current version: v19.10.26
+ 
+We've updated the AV Edge BG Build. 
+Fixed: Einthusan for East Asian movies
+Removed: SPORTS section
+Added: Plex addon to MOVIES and TV SHOWS, Deceit addon to APPS, NBC Golf to
+LIVE.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
