@@ -1,12 +1,9 @@
-59
+60
 ||| 
-***18-Feb-2020*** New version of AV Edge HUB Player is v20.2.18
-We've updated the AV Edge SE Build! We changed some menus and added more
-submenu items. 
-Fixed: Movies and Shows by switching to the Neptune Addon, fixed LIVE TV
-Removed: Deceit Addon, Cartoons and Anime, Serbian TV
-Added: Man Cave  and Aliunde movies and TV shows to MOVIES and SHOWS
-Moved: PLEX to the main menu, Video and Music Addons and Android Apps to SYSTEM.
+***27-Feb-2020*** New version of AV Edge HUB Player is v20.2.18
+We've updated the AV Edge SE Build! 
+
+Fixed: LIVE TV channels not loading
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
