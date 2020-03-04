@@ -1,9 +1,10 @@
-60
+61
 ||| 
-***27-Feb-2020*** New version of AV Edge HUB Player is v20.2.18
+***3-Mar-2020*** New version of AV Edge SE Player is v20.3.3
 We've updated the AV Edge SE Build! 
 
-Fixed: LIVE TV channels not loading
+Fixed: YouTube error. Now you can get back to watching music videos and other 
+YouTube content.
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
