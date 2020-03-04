@@ -1,12 +1,10 @@
-58
+59
 ||| 
-***31-Jan-2020*** New version of AV Edge HUB Player is v20.1.31
-We've updated the AV Edge HUB Build! We changed some menus and added more
-submenu items. 
-Fixed: Movies and Shows by switching to the Neptune Addon
-Removed: Deceit Addon, Cartoons and Anime, Serbian TV
-Added: Man Cave  and Aliunde movies and TV shows to MOVIES and SHOWS
-Moved: PLEX to the main menu, Video and Music Addons and Android Apps to SYSTEM.
+***3-Mar-2020*** New version of AV Edge HUB Player is v20.3.3
+We've updated the AV Edge HUB Build! 
+
+Fixed:The YouTbe error. You can now stream all your music videos and
+other content from YouTube again.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
