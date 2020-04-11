@@ -1,10 +1,12 @@
-61
+62
 ||| 
-***3-Mar-2020*** New version of AV Edge SE Player is v20.3.3
+***11-April-2020*** New version of AV Edge SE Player is v20.4.11
 We've updated the AV Edge SE Build! 
 
-Fixed: YouTube error. Now you can get back to watching music videos and other 
-YouTube content.
+Fixed: Einthusan not loading movies
+Replaced: Neptune with EXODUS in MOVIES and SHOWS
+Removed: Global TV from LIVE
+Moved: PLEX to the top of the main menu.
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
