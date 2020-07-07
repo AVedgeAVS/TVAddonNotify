@@ -1,11 +1,10 @@
-61
+62
 ||| 
-***24-May-2020*** New version of AV Edge HUB Player is v20.5.24
+***6-Juy-2020*** New version of AV Edge HUB Player is v20.7.6
 We've updated the AV Edge HUB Build! 
 
-Replaced: Neptune with EXODUS in MOVIES and SHOWS
-Removed: Global TV from LIVE
-Moved: PLEX to the top of the main menu.
+Fixed: Einthusan.
+Updated: Several Addons were updated.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
