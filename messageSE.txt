@@ -1,11 +1,9 @@
-63
+64
 ||| 
-***11-April-2020*** New version of AV Edge SE Player is v20.4.11
+***25-July-2020*** New version of AV Edge SE Player is v20.7.25
 We've updated the AV Edge SE Build! 
 
-Replaced: Neptune with EXODUS in MOVIES and SHOWS
-Removed: Global TV from LIVE
-Moved: PLEX to the top of the main menu.
+Updated: Add-ons
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
