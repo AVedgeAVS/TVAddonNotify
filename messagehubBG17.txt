@@ -1,9 +1,9 @@
-58
+59
 ||| 
-**25-May-2020*** New version of AV Edge BG Player is v20.7.8
+**23-Oct-2020*** New version of AV Edge BG Player is v20.10.23
 We've updated the AV Edge BG Build! 
 
-Fixed: Einthusan.
+Fixed: LIVE TV channels.
 Updated: Several Addons.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
