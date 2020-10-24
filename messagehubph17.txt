@@ -1,9 +1,9 @@
-62
+63
 ||| 
-***6-Juy-2020*** New version of AV Edge HUB Player is v20.7.6
+***24-Oct-2020*** New version of AV Edge HUB Player is v20.10.23
 We've updated the AV Edge HUB Build! 
 
-Fixed: Einthusan.
+Fixed: Live TV channels in LIVE
 Updated: Several Addons were updated.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
