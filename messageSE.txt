@@ -1,9 +1,11 @@
-64
+65
 ||| 
-***25-July-2020*** New version of AV Edge SE Player is v20.7.25
-We've updated the AV Edge SE Build! 
+***30-Oct-2020*** New version of AV Edge SE Player is v20.10.30
 
-Updated: Add-ons
+Updated: Numerous Add-ons
+Removed: several Add-ons that no longer work, Man Cave, Neptune Rising, Global TV
+Fixed: LIVE TV channels
+Revamped the MOVIES, SHOWS, LIVE sub menus
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
