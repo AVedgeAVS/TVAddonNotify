@@ -1,10 +1,10 @@
-60
+61
 ||| 
-**5-Dec-2020*** New version of AV Edge BG Player is v20.12.5
-We've updated the AV Edge BG Build! 
-
-Updated: Several Addons.
-Removed: Addons no longer working.
+**10-Dec-2020*** New version of AV Edge BG Player is v20.12.8
+We've made some more changes the AV Edge BG Build! 
+Removed: KIDS from main menu
+Added: Documentaries and CBC TV Shows to TV Shows sub-menu, new menu Fit Bit with health and fitness,
+sub-menus, Local US News in Live TV sub-menu, more Adult add-ons
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
