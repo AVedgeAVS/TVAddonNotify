@@ -1,10 +1,12 @@
-63
+64
 ||| 
-***24-Oct-2020*** New version of AV Edge HUB Player is v20.10.23
+***8-Dec-2020*** New version of AV Edge HUB Player is v20.12.8
 We've updated the AV Edge HUB Build! 
-
-Fixed: Live TV channels in LIVE
-Updated: Several Addons were updated.
+Removed: Several Add-ons that no longer work, Man Cave, Neptune Rising, Global TV
+KIDS from main menu
+Added: Documentaries to SHOWS sub-menu, new menu FIT BIT with health and fitness,
+sub-menus, Local US News in LIVE, more Adult add-ons
+Revamped the MOVIES, SHOWS and LIVE sub menus.
 
 General disclaimer: AV Edge HUB Player is a media center app. The author 
 of AV Edge HUB does not own, host, or distribute any of the content accessed 
