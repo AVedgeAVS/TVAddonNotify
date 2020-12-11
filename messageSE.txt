@@ -1,12 +1,11 @@
-66
+67
 ||| 
-***30-Oct-2020*** New version of AV Edge SE Player is available, v20.10.30
+***11-Dec-2020*** New version of AV Edge SE Player is available, v20.12.11
 Go to AVEdge Updater SE to get the new update.
-
-Updated: Numerous Add-ons
-Removed: several Add-ons that no longer work, Man Cave, Neptune Rising, Global TV
-Fixed: LIVE TV channels
-Revamped the MOVIES, SHOWS, LIVE sub menus
+Removed: Several Add-ons that no longer work, Man Cave, Neptune Rising, Global TV
+KIDS from main menu
+Added: Documentaries and CBC Tv shows to SHOWS sub-menu, new menu FIT BIT with health 
+and fitness sub-menus, Local US News in LIVE, and more Adult add-ons.
 
 General disclaimer: AV Edge SE Player is a media center app. The author 
 of AV Edge SE does not own, host, or distribute any of the content accessed 
